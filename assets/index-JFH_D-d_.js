@@ -165,4 +165,4 @@ function App() {
           animation: fade-in 0.6s ease-out forwards;
           animation-delay: var(--delay, 0s);
         }
-      `})]})};function Gp(){return o.jsx(Op,{children:o.jsxs(Pp,{children:[o.jsx(Xo,{path:"/",element:o.jsx(Ap,{})}),o.jsx(Xo,{path:"/docs",element:o.jsx(Yp,{})})]})})}If.createRoot(document.getElementById("root")).render(o.jsx(E.StrictMode,{children:o.jsx(Gp,{})}));
+      `})]})};function Gp(){return o.jsx(Op,{basename:"/codeio",children:o.jsxs(Pp,{children:[o.jsx(Xo,{path:"/",element:o.jsx(Ap,{})}),o.jsx(Xo,{path:"/docs",element:o.jsx(Yp,{})})]})})}If.createRoot(document.getElementById("root")).render(o.jsx(E.StrictMode,{children:o.jsx(Gp,{})}));
